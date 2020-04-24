@@ -1,0 +1,5 @@
+tab=int(input('Digite o numero para calcula a tabuada '))
+print('{} x {:2} = {}'.format(tab,1,tab*1))
+print('{} x {:2} = {}'.format(tab,2,tab*2))
+print('{} x {:2} = {}'.format(tab,3,tab*3))
+print('{} x {:2} = {}'.format(tab,4,tab*4))
