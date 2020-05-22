@@ -5,3 +5,5 @@ if distancia<=200:
 else:
     preco = distancia*0.45
     print('Sua viagem é longa com o valor de R${}'.format(preco))
+#preco =distacia*0.50 if distacia <= 200 else distancia*0.45
+# print('Sua viagem de {} KM será com o preço de {}. '.format(distancia,preco))
